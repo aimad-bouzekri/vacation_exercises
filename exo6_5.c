@@ -1,3 +1,4 @@
+//Write a program to dynamically allocate memory for an array using malloc.
 #include <stdio.h>
 #include<stdlib.h>
 
